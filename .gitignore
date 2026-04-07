@@ -4,6 +4,7 @@ assets/external/
 .web
 *.py[cod]
 venv/
+venv2/
 .env
 __pycache__/
 *.pyc
